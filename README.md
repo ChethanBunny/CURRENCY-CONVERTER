@@ -48,5 +48,5 @@ It fetches live exchange rates from the **ExchangeRate API** and allows users to
 Clone the repository and open `index.html` in your browser:  
 
 ```bash
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/ChethanBunny/currency-converter.git
 cd currency-converter
