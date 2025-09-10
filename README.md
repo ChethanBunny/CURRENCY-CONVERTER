@@ -21,6 +21,15 @@ It fetches live exchange rates from the **ExchangeRate API** and allows users to
 - **ExchangeRate API** – Live exchange rate data  
 
 ---
+## 📸 Screenshots
+<img width="1356" height="767" alt="Screenshot 2025-09-10 235633" src="https://github.com/user-attachments/assets/1c9247d3-4684-41bc-baf6-a7b88669c46b" />
+
+### Home Page
+
+
+### Conversion Example
+
+<img width="1365" height="766" alt="Screenshot 2025-09-10 235714" src="https://github.com/user-attachments/assets/a1af1128-d02f-4a40-b698-2d39c6498d41" />
 
 ## 🚀 How to Use
 1. Enter the amount in the input field  
